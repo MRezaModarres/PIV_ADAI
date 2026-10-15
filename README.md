@@ -6,7 +6,7 @@
 
 Developed at **ADAI** (Associação para o Desenvolvimento da Aerodinâmica Industrial) and **CEIF** (Centro de Estudos sobre Incêndios Florestais), Department of Mechanical Engineering, University of Coimbra, Portugal.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)  <!-- replace after the first Zenodo release -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23402715.svg)](https://doi.org/10.5281/zenodo.23402715)  <!-- replace after the first Zenodo release -->
 
 ## Features
 
@@ -79,7 +79,7 @@ This writes 80 frames and `ground_truth.csv` (true positions and velocities). Lo
 
 Please cite the archived version through its DOI (see `CITATION.cff`, or the "Cite this repository" button on GitHub):
 
-> Modarres, M. (2026). *PIV_ADAI: a MATLAB GUI for image velocimetry and tracking of firebrands and particles* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Modarres, M. (2026). *PIV_ADAI: a MATLAB GUI for image velocimetry and tracking of firebrands and particles* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23402715
 
 The DOI badge at the top of this page is the *concept DOI*, which always resolves to the latest version.
 
