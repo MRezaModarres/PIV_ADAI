@@ -1,0 +1,4 @@
+*.asv
+*.mat
+synthetic_firebrands/
+.DS_Store

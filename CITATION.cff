@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "PIV_ADAI: a MATLAB GUI for image velocimetry and tracking of firebrands and particles"
+abstract: >-
+  MATLAB application for the detection, tracking (PTV) and cross-correlation
+  velocimetry (PIV) of firebrands and particles in image sequences and videos
+  of fire experiments, with automatic or manual image conditioning,
+  user-defined interrogation areas and post-processing of velocity,
+  direction, size, number density and streamlines. Developed at ADAI
+  (Associação para o Desenvolvimento da Aerodinâmica Industrial) and CEIF
+  (Centro de Estudos sobre Incêndios Florestais), University of Coimbra.
+version: 1.0.0
+date-released: "2026-10-15"
+license: MIT
+authors:
+  - family-names: Modarres
+    given-names: MohammadReza
+    email: mohammad@adai.pt
+    affiliation: "ADAI / CEIF - Centro de Estudos sobre Incêndios Florestais, Department of Mechanical Engineering, University of Coimbra"
+    # orcid: "https://orcid.org/0000-0003-4201-0875"
+repository-code: "https://github.com/MRezaModarres/PIV_ADAI"
+# doi: 10.5281/zenodo.XXXXXXX   # add after the first Zenodo release
+keywords:
+  - firebrands
+  - spotting
+  - wildland fire
+  - particle tracking velocimetry
+  - particle image velocimetry
+  - image processing
+  - MATLAB
+  - ADAI
+  - CEIF
